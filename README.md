@@ -2,7 +2,7 @@
 - 👀 I’m interested in Chess gamming and coding
 - 🌱 I’m currently learning node
 - 💞️ I’m looking to collaborate on node
-- 📫 How to reach me iamkunal9_ (instagram)
+- 📫 How to reach me iamkunal9.js (instagram)
 
 <!---
 iamkunal9/iamkunal9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
