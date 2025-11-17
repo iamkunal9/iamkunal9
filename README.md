@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/uttTEf-cTnIAAAAj/uchiha-itachi.gif"  />
+  <img height="200" width="350" src="https://media.tenor.com/uttTEf-cTnIAAAAj/uchiha-itachi.gif"  />
 </div>
 
 ###
