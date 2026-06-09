@@ -45,28 +45,7 @@
 ###
 
 <div align="center">
-  <img height="200" width="350" src="https://media.tenor.com/uttTEf-cTnIAAAAj/uchiha-itachi.gif"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=iamkunal9.iamkunal9&"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamkunal9&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=iamkunal9&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamkunal9/iamkunal9/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamkunal9/iamkunal9/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iamkunal9/iamkunal9/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
